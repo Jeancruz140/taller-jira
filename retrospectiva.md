@@ -1,0 +1,19 @@
+# Retrospectiva
+
+
+| START — qué empezaríamos a hacer                                                                                                                                                         | STOP — qué dejaríamos de hacer                                                                                                                                                                                                                                                                                  | CONTINUE — qué mantendríamos                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mejorar la comunicación, estableciendo horarios de conexión sincrónica                                                                                                                   | Dejar de depender de que otros integrantes asignen, recuerden, supervisen y hagan seguimiento a las tareas. Cada integrante debe asumir iniciativa, cumplir con sus responsabilidades y participar activamente en el trabajo del equipo, sin esperar constantemente a que los demás le indiquen qué debe hacer. | Entregar el trabajo a tiempo                                                                                                                |
+| Todos toman iniciativa, actualizan Jira, proponen soluciones y asumen responsabilidades sin esperar siempre a que el SC indique qué hacer.                                               | Dejar de esperar siempre indicaciones del Scrum Máster para realizar las tareas asignadas.                                                                                                                                                                                                                      | Mantener la participación activa de todos los integrantes, proponiendo soluciones y asumiendo responsabilidades.                            |
+| Establecer fechas internas de revisión intermedias y transparentes, acordadas por todo el equipo desde el inicio del trabajo, para no depender de presiones o exigencias de última hora. | Dejar de fiscalizar o intentar controlar el tiempo individual de los demás integrantes, respetando la autonomía de cada uno mientras se cumpla la fecha límite de entrega acordada.                                                                                                                             | La capacidad del equipo para reaccionar, avanzar y tener las entregas listas a tiempo cumpliendo con los estándares de calidad solicitados. |
+
+
+**Acción comprometida para la próxima sesión:**
+
+Todos
+
+**Responsables:** Stephanny Nayleth Tonetti Vanegas, Sergio David Martinez Ruiz, Jefry Sebastian Lara Garzon y Jean Carlo Morales Cruz
+
+## Resumen para próximo sprint (Proxima clase)
+
+Desde esta semana nos organizaremos para acordar un espacio presencial al inicio de la semana para revisar cómo vamos y coordinar la entrega de la siguiente clase. Cada integrante asumirá sus responsabilidades sin esperar recordatorios constantes, mantendrá informado al equipo sobre su avance y pedirá ayuda cuando la necesite. También revisaremos el trabajo con anticipación para corregir lo necesario y entregar todo completo y a tiempo.
